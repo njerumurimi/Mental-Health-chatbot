@@ -1,20 +1,6 @@
 """
 Mental Awareness Companion
 A supportive mental wellness chatbot built with Tkinter.
-
-Features:
-- Emotional awareness chatbot
-- Daily mood check-in
-- Mindfulness breathing timer
-- Typing effect
-- Dark/Light mode
-- Export chat history
-- Crisis phrase detection
-- Motivational quotes
-- Responsive UI
-
-Author: OpenAI ChatGPT
-Python Version: 3.x
 """
 
 import tkinter as tk
